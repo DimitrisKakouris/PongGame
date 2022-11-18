@@ -10,10 +10,6 @@
 
 
 void PowerUp::update() {
-
-
-	
-
 }
 
 void PowerUp::draw() {
